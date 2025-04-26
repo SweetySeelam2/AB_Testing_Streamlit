@@ -38,32 +38,37 @@ The entire analysis is deployed as an **interactive Streamlit web dashboard** wh
 
 ## 📂 Project Structure
 
-AB_Testing/ ├
-── app.py # Streamlit App 
-├── requirements.txt # Required Python libraries 
-├── AB_Testing.ipynb # Original Jupyter Notebook Analysis (reference) 
-├── data/ 
-│ └── Marketing_AB_Testing.csv 
-└── images/
-   └── Conversion_by_hour&Conversion_by_day.png
+AB_Testing/ 
+
+├── app.py # Streamlit App                                                     
+├── requirements.txt # Required Python libraries                                                              
+├── AB_Testing.ipynb # Original Jupyter Notebook Analysis (reference)                                                  
+├── data/                                                        
+│└── Marketing_AB_Testing.csv                                                                
+├── images/                                                                                   
+  └── Conversion_by_hour&Conversion_by_day.png                                                             
 
 ---
 
 ## 📋 How to Run Locally
 
 1. Clone this repository:
+
    git clone https://github.com/SweetySeelam2/AB_Testing_Streamlit.git
-Navigate to the project directory:
+
+2. Navigate to the project directory:
 
 > cd AB_Testing
-Install dependencies:
+
+3. Install dependencies:
 
 > pip install -r requirements.txt
-Run the Streamlit app:
+
+4. Run the Streamlit app:
 
 > streamlit run app.py
-✅ Now you can see the dashboard at:
-http://localhost:8501
+
+✅ Now you can see the dashboard at: http://localhost:8501
 
 ---
 
@@ -100,9 +105,13 @@ Introduce dayparted bidding strategies for better ROI.
 
 ## 📬 Connect with Me:
 Name: Sweety Seelam
+
 Email: sweetyseelam2@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/sweetyrao670/
+
 GitHub: https://github.com/SweetySeelam2/AB_Testing_Streamlit
+
 My Portfolio: https://sweetyseelam2.github.io/SweetySeelam.github.io/
 
 ⭐ If you like this project, feel free to star this repo or connect with me!
